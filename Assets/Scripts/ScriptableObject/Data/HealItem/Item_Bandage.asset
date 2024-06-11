@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7474a191446fa540b9b91ae3684cffd, type: 3}
+  m_Name: Item_Bandage
+  m_EditorClassIdentifier: 
+  displayName: "\uBC34\uB4DC"
+  description: "\uAC00\uBCBC\uC6B4 \uC0C1\uCC98\uC5D0 \uBD99\uC785\uB2C8\uB2E4"
+  type: 1
+  icon: {fileID: 21300000, guid: 4691a7b6defa5534487e65382ac0c1c9, type: 3}
+  dropProefab: {fileID: 2707282934423182138, guid: 2f9990d1ad1b2d34c9a25dd64c4fa960, type: 3}
+  canStack: 1
+  maxStackAmount: 10
+  consumables:
+  - type: 0
+    value: 20
+  - type: 0
+    value: 20
+  equipPrefab: {fileID: 0}

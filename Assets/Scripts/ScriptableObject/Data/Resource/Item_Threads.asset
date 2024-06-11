@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7474a191446fa540b9b91ae3684cffd, type: 3}
+  m_Name: Item_Threads
+  m_EditorClassIdentifier: 
+  displayName: "\uC2E4"
+  description: "\uCC9C\uC744 \uAE38\uAC8C \uBF51\uC544 \uB9CC\uB4E4\uC5C8\uC2B5\uB2C8\uB2E4"
+  type: 2
+  icon: {fileID: 21300000, guid: 6a44a47482fbf6444910354211df0a98, type: 3}
+  dropPrefab: {fileID: 1265428040495778621, guid: 7b60cd14947c7f246b0cea39f5359d07, type: 3}
+  canStack: 1
+  maxStackAmount: 20
+  consumables: []
+  equipPrefab: {fileID: 7174302474228251853, guid: 18c64d6c3235fee4695a9c67f82abfa9, type: 3}
+  buildPrefab: {fileID: 0}
+  previewPrefab: {fileID: 0}
+  sort: 0

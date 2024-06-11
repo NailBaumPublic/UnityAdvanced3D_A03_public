@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7474a191446fa540b9b91ae3684cffd, type: 3}
+  m_Name: Item_LegendarySword
+  m_EditorClassIdentifier: 
+  displayName: "\uC804\uC124\uC758 \uAC80"
+  description: "\uBB34\uC5C7\uC774\uB4E0 \uBCA0\uC5B4\uB0B4\uB294 \uC804\uC124\uC758
+    \uAC80\uC785\uB2C8\uB2E4"
+  type: 0
+  icon: {fileID: 21300000, guid: 9234871c04c5c9d42abd7bd385990639, type: 3}
+  dropPrefab: {fileID: 7669037495869191251, guid: 6f74fa255bd6dd447a49a06cdaff9359, type: 3}
+  canStack: 0
+  maxStackAmount: 0
+  consumables: []
+  equipPrefab: {fileID: 7669037495869191251, guid: 8962c337ee812d0418a1d10037c98173, type: 3}
+  buildPrefab: {fileID: 0}
+  previewPrefab: {fileID: 0}
+  sort: 0
